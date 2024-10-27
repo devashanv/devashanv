@@ -3,12 +3,13 @@
 
 <br>
 
-> 🔭 I'm Currently working on Openconnectousl project<br>
-> 🌱 I'm currently learning Advanced react | Java<br>
-> 💬 Ask me about React | Java | Python<br>
-> ⚡ Fun fact Fun coding
 
-![Profile image!](/assets/images/san-juan-mountains.jpg)
+> 🔭 I'm Currently working on Openconnectousl project<br><br>
+> 🌱 I'm currently learning Advanced react | Java<br><br>
+> 💬 Ask me about React | Java | Python<br><br>
+> ⚡ Fun fact Fun coding 
+<!--<img src="/profile-img.gif" alt="Front-End Developer" width="300" style="border-radius: 15px;"/>-->
+
 
 <br>
 
@@ -23,19 +24,20 @@
 
 <br>
 
-## ⫼ Get In Touch:
->- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashan-withanarachchi-385593255) 
->- **Email**: ashanwithanarachchi@gmail.com
-  
-<br>
-
-## 📊 GitHub Stats:
+## ⫼ GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=devashanv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devashanv&theme=dark&hide_border=false) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devashanv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
+
+## ⫼ Get In Touch:
+>- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashan-withanarachchi-385593255) 
+>- **Email**: ashanwithanarachchi@gmail.com
+  
+<br>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devashanv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
