@@ -1,7 +1,8 @@
 ---
 
 <div align="center">
-  # I'm Front End Developer
+  <h1>I'm Front End Developer</h1>h1>
+  <img src="[https://example.com/your-gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw3lxTLop7Nani7b9y8fTgfR&ust=1730116306236000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiGgNO_rokDFQAAAAAdAAAAABAE)" alt="Front-End Developer" width="500"/>
 </div>
 
 ---
@@ -29,14 +30,18 @@ React, Vue
 - **Tools**: ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashan-withanarachchi-385593255) 
+## 🌐Get In Touch:
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashan-withanarachchi-385593255) 
+- **Email**: kamal@example.com
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=devashanv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=devashanv&theme=dark&hide_border=false)<br/>
+<div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devashanv&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devashanv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=devashanv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devashanv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
