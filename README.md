@@ -1,8 +1,8 @@
 ---
 
 <div align="center">
-  <h1>I'm Front End Developer</h1>h1>
-  <img src="[https://example.com/your-gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw3lxTLop7Nani7b9y8fTgfR&ust=1730116306236000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiGgNO_rokDFQAAAAAdAAAAABAE)" alt="Front-End Developer" width="500"/>
+  <h1>Front End Developer</h1>
+  <img src="https://www.pinterest.com/pin/pinterest--311381761734186207/">
 </div>
 
 ---
