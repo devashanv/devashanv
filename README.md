@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Front End Developer<br>I'm Currently working on Openconnectousl project<br>I'm currently learning Advanced react | Java<br>Ask me about React | Java | Python<br>Fun fact Fun coding
+# 💫 About Me: I'm Front End Developer
+I'm Currently working on Openconnectousl project<br>I'm currently learning Advanced react | Java<br>Ask me about React | Java | Python<br>Fun fact Fun coding
 
 
 ## 🌐 Socials:
