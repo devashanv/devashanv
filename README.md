@@ -30,7 +30,7 @@ Here are some of the technologies I work with:
 #### ⫼ GitHub Status
 
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devashanv&show_icons=true&hide_title=true&count_private=true&theme=dark)-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=devashanv&theme=dark&hide_border=false) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=devashanv&theme=dark&hide_border=false) &nbsp; &nbsp; &nbsp; &nbsp; 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devashanv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--## About JavaScript
