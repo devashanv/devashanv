@@ -1,44 +1,69 @@
+<!--# ![Header Banner](path_to_your_banner_image.png)-->
 
-<h1 align="center">Front End Developer</h1>
+<!--## About Me-->
+<h2 align=center>Front End Developer</h2>
 
-<br>
-
-
-> 🔭 I'm Currently working on Openconnectousl project<br><br>
-> 🌱 I'm currently learning Advanced react | Java<br><br>
-> 💬 Ask me about React | Java | Python<br><br>
-> ⚡ Fun fact Fun coding 
-<!--<img src="/profile-img.gif" alt="Front-End Developer" width="300" style="border-radius: 15px;"/>-->
+I am passionate and results-oriented professional with a strong background in software engineering. My experience includes internship, self projects and online courses.  currently open to new opportunities where I can use my skills and experience to contribute to innovative projects and learn from experienced professionals.
 
 
-<br>
+#### ⫼ Skills & Technologies
 
-## ⫼ Tech Stack:
->- **Languages**: <br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
->- **Frameworks & Libraries**: <br> ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+Here are some of the technologies I work with:
 
->- **DataBases**: <br> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
->- **Tools**: <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#### ⫼ GitHub Status
 
-<br>
-
-## ⫼ GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=devashanv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=devashanv&theme=dark&hide_border=false) 
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devashanv&show_icons=true&hide_title=true&count_private=true&theme=dark)-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=devashanv&theme=dark&hide_border=false) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devashanv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
+<!--## About JavaScript
 
-## ⫼ Get In Touch:
->- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashan-withanarachchi-385593255) 
->- **Email**: ashanwithanarachchi@gmail.com
-  
-<br>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 50%;">
+    <p>
+      JavaScript is a versatile and powerful programming language commonly used for creating interactive and dynamic web content. It allows developers to implement complex features on web pages, enabling everything from interactive forms to animated graphics. With its vast ecosystem of libraries and frameworks, such as React and Angular, JavaScript plays a critical role in modern web development.
+    </p>
+  </div>
+  <div style="width: 35%;">
+   d
+  </div>
+</div> -->
 
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devashanv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+#### ⫼ Get In Touch
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #2e2e2e;">
+  <h3 style="margin-top: 0;">Feel free to connect with me!</h3>
+  <ul style="list-style-type: none; padding: 0;display:flex; justify-content:space-between">
+    <li>
+      <a href="www.linkedin.com/in/ashan-withanarachchi-385593255" style="text-decoration: none; color: #0077b5;">
+        <img src="https://img.icons8.com/ios-filled/24/0077b5/linkedin.png" alt="LinkedIn Icon" style="vertical-align: middle;"/> LinkedIn
+      </a>
+    </li>
+    <li>
+      <!--<a href="https://yourportfolio.com" style="text-decoration: none; color: #0073e6;">
+        <img src="https://img.icons8.com/ios-filled/24/0073e6/portfolio.png" alt="Portfolio Icon" style="vertical-align: middle;"/> Portfolio
+      </a>-->
+      <a href="mailto:ashanwithanarachchi@gmail.com" style="text-decoration: none; color: #d14836;">
+        <img src="https://img.icons8.com/ios-filled/24/d14836/email.png" alt="Email Icon" style="vertical-align: middle;"/> Email Address
+    </li>
+  </ul>
+</div>
