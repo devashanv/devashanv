@@ -54,7 +54,7 @@ Here are some of the technologies I work with:
   <h3 style="margin-top: 0;">Feel free to connect with me!</h3>
   <ul style="list-style-type: none; padding: 0;display:flex; justify-content:space-between">
     <li>
-      <a href="www.linkedin.com/in/ashan-withanarachchi-385593255" style="text-decoration: none; color: #0077b5;">
+      <a href="[www.linkedin.com/in/ashan-withanarachchi-385593255](https://www.linkedin.com/in/ashan-withanarachchi-385593255/)" style="text-decoration: none; color: #0077b5;">
         <img src="https://img.icons8.com/ios-filled/24/0077b5/linkedin.png" alt="LinkedIn Icon" style="vertical-align: middle;"/> LinkedIn
       </a>
     </li>
