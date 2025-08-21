@@ -1,7 +1,7 @@
 <!--# ![Header Banner](path_to_your_banner_image.png)-->
 
 <!--## About Me-->
-<h2 align=center>Front End Developer</h2>
+<h2 align=center>Software Engineer</h2>
 
 I am passionate and results-oriented professional with a strong background in software engineering. My experience includes internship, self projects and online courses.  currently open to new opportunities where I can use my skills and experience to contribute to innovative projects and learn from experienced professionals.
 
